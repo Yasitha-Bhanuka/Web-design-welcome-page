@@ -1,0 +1,86 @@
+.home-desktop, .home-desktop * { box-sizing: border-box; }.home-desktop {background: #ffffff; width: 1600px; height: 3906px; position: relative; overflow: auto;}
+ .hero-bg {background: var(--primarypink, #e2007a); width: 1600px; height: 1000px; position: absolute; left: 0px;top: 0px;}
+ .menu {display: flex; flex-direction: row; gap: 60px; align-items: center; justify-content: center; position: absolute; left: calc(50% - 250px);top: 68px;}
+ .home {color: #ffffff; text-align: left; font: 700 20px/8px 'Josefin Sans', sans-serif; position: relative;}
+ .cakes {color: #ffffff; text-align: left; font: 700 20px/8px 'Josefin Sans', sans-serif; position: relative;}
+ .about-me {color: #ffffff; text-align: left; font: 700 20px/8px 'Josefin Sans', sans-serif; position: relative;}
+ .contact-me {color: #ffffff; text-align: left; font: 700 20px/8px 'Josefin Sans', sans-serif; position: relative;}
+ .logo {position: absolute; left: 192px;top: 32px; overflow: visible;}
+ .button {background: #ffe662; border-radius: 100px; padding: 14px 40px 14px 40px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; position: absolute; left: 1243px;top: 38px;}
+ .select-cake {color: #e2007a; text-align: left; font: 400 16px/24px 'Josefin Sans', sans-serif; position: relative;}
+ .button2 {background: #ffe662; border-radius: 100px; padding: 14px 40px 14px 40px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; position: absolute; left: calc(50% - 99px);top: 829px;}
+ .arrow-right-1 {flex-shrink: 0; position: relative; overflow: visible;}
+ .cakes2 {position: absolute; inset: 0;}
+ ._3 {width: 230px; height: 233.88px; position: absolute; left: 968px;top: 487px; box-shadow: 0px 18px 60px 0px rgba(0, 0, 0, 0.25);}
+ ._2 {width: 230px; height: 232.82px; position: absolute; left: 401px;top: 495px; box-shadow: 0px 18px 60px 0px rgba(0, 0, 0, 0.25);}
+ ._5 {width: 250px; height: 277.61px; position: absolute; left: 843px;top: 476px; box-shadow: 0px 18px 38px 0px rgba(0, 0, 0, 0.25);}
+ ._4 {width: 250px; height: 276.98px; position: absolute; left: 496px;top: 475px; box-shadow: 0px 18px 38px 0px rgba(0, 0, 0, 0.25);}
+ ._1 {width: 347px; height: 469px; position: absolute; left: 621px;top: 344px; box-shadow: 0px 18px 35px 0px rgba(0, 0, 0, 0.25);}
+ .delicious-home-made-cake {color: #ffffff; text-align: center; font: 700 101px/104px 'Josefin Sans', sans-serif; position: absolute; left: calc(50% - 434px);top: 184px;}
+ .our-cakes {color: #2d0018; text-align: center; font: 700 57px/64px 'Josefin Sans', sans-serif; position: absolute; left: calc(50% - 144px);top: 1065px;}
+ .our-cakes2 {position: absolute; inset: 0;}
+ .frame-1 {display: flex; flex-direction: column; gap: 20px; align-items: center; justify-content: flex-start; position: absolute; left: 191px;top: 1194px;}
+ .ellipse-1 {border-radius: 50%; flex-shrink: 0; width: 325px; height: 325px; position: relative;}
+ .birthday-cake {color: #2d0018; text-align: center; font: 700 32px 'Josefin Sans', sans-serif; position: relative;}
+ .a-birthday-cake-is-a-celebratory-dessert-specifically-made-to-mark-someone-s-birthday-it-is-typically-a-sweet-and-flavorful-confection-consisting-of-layers-of-cake-filled-with-delicious-frosting-or-cream-the-cake-is-often-covered-in-decorative-icing-and-may-feature-personalized-messages-sprinkles-or-other-edible-embellishments-candles-are-commonly-placed-on-top-of-the-cake-symbolizing-the-age-of-the-person-celebrating-their-birthday {color: #2d0018; text-align: center; font: 400 14px 'Lato', sans-serif; position: relative; width: 280px; height: 181px;}
+ .button3 {border-radius: 100px; border-style: solid; border-color: #ffe662; border-width: 2px; padding: 14px 40px 14px 40px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; flex-shrink: 0; position: relative;}
+ .select-cake2 {color: #2d0018; text-align: center; font: 400 16px 'Josefin Sans', sans-serif; position: relative;}
+ .arrow-right-12 {flex-shrink: 0; position: relative; overflow: visible;}
+ .frame-2 {display: flex; flex-direction: column; gap: 20px; align-items: center; justify-content: flex-start; position: absolute; left: 637px;top: 1194px;}
+ .ellipse-2 {border-radius: 50%; flex-shrink: 0; width: 325px; height: 325px; position: relative;}
+ .cup-cake {color: #2d0018; text-align: left; font: 700 32px/40px 'Josefin Sans', sans-serif; position: relative;}
+ .a-cupcake-is-a-small-individual-sized-cake-that-is-baked-in-a-cup-shaped-container-typically-made-of-paper-or-aluminum-it-is-a-popular-dessert-that-is-by-people-of-all-ages-cupcakes-are-known-for-their-portability-and-convenience-as-they-can-be-easily-held-and-eaten-without-the-need-for-utensils-they-come-in-various-flavors-and-are-often-topped-with-frosting-sprinkles-or-other-decorative-elements-to-add-visual-appeal {text-align: center; font: 400 14px/16px 'Lato', sans-serif; position: relative; width: 280px; height: 181px;}
+.a-cupcake-is-a-small-individual-sized-cake-that-is-baked-in-a-cup-shaped-container-typically-made-of-paper-or-aluminum-it-is-a-popular-dessert-that-is-by-people-of-all-ages-cupcakes-are-known-for-their-portability-and-convenience-as-they-can-be-easily-held-and-eaten-without-the-need-for-utensils-they-come-in-various-flavors-and-are-often-topped-with-frosting-sprinkles-or-other-decorative-elements-to-add-visual-appeal-span {
+      color: #000000;
+      font: 400 14px/16px 'Lato', sans-serif;
+    }
+.a-cupcake-is-a-small-individual-sized-cake-that-is-baked-in-a-cup-shaped-container-typically-made-of-paper-or-aluminum-it-is-a-popular-dessert-that-is-by-people-of-all-ages-cupcakes-are-known-for-their-portability-and-convenience-as-they-can-be-easily-held-and-eaten-without-the-need-for-utensils-they-come-in-various-flavors-and-are-often-topped-with-frosting-sprinkles-or-other-decorative-elements-to-add-visual-appeal-span2 {
+      color: #2d0018;
+      font: 400 14px/16px 'Lato', sans-serif;
+    }
+.a-cupcake-is-a-small-individual-sized-cake-that-is-baked-in-a-cup-shaped-container-typically-made-of-paper-or-aluminum-it-is-a-popular-dessert-that-is-by-people-of-all-ages-cupcakes-are-known-for-their-portability-and-convenience-as-they-can-be-easily-held-and-eaten-without-the-need-for-utensils-they-come-in-various-flavors-and-are-often-topped-with-frosting-sprinkles-or-other-decorative-elements-to-add-visual-appeal-span3 {
+      color: #000000;
+      font: 400 14px/16px 'Lato', sans-serif;
+    }
+ .select-cake3 {color: #2d0018; text-align: left; font: 400 16px/24px 'Josefin Sans', sans-serif; position: relative;}
+ .arrow-right-13 {flex-shrink: 0; position: relative; overflow: visible;}
+ .frame-3 {display: flex; flex-direction: column; gap: 20px; align-items: center; justify-content: flex-start; position: absolute; left: 1083px;top: 1194px;}
+ .ellipse-3 {flex-shrink: 0; position: relative; overflow: visible;}
+ .wedding-cake {color: #2d0018; text-align: left; font: 700 32px/40px 'Josefin Sans', sans-serif; position: relative;}
+ .a-wedding-cake-is-a-special-cake-created-and-displayed-at-wedding-receptions-to-celebrate-the-union-of-a-couple-it-is-typically-a-multi-tiered-cake-symbolizing-the-grandeur-and-significance-of-the-occasion-wedding-cakes-are-meticulously-designed-and-decorated-to-match-the-theme-colors-and-style-of-the-wedding-they-are-often-adorned-with-intricate-icing-designs-edible-flowers-or-other-decorative-elements-that-reflect-the-couple-s-preferences-and-personalization {color: #2d0018; text-align: center; font: 400 14px/16px 'Lato', sans-serif; position: relative; width: 280px; height: 181px;}
+ .arrow-right-14 {flex-shrink: 0; position: relative; overflow: visible;}
+ .features {position: absolute; inset: 0;}
+ .rectangle-1 {background: var(--primarypink, #e2007a); border-radius: 60px; width: 1216px; height: 420px; position: absolute; left: 192px;top: 1960px;}
+ .cake-icon {width: 280px; height: 244px; position: static;}
+ .cake-icon-1 {width: 76px; height: 76px; position: absolute; left: 294px;top: 2038px;}
+ .select-your-favorite-flavor {color: #ffffff; text-align: left; font: 400 32px/32px 'Josefin Sans', sans-serif; position: absolute; left: 294px;top: 2152px; width: 280px;}
+ .we-have-big-collection-choose-your-favorite {color: #ffffff; text-align: left; font: 400 18px/24px 'Josefin Sans', sans-serif; position: absolute; left: 294px;top: 2228px; width: 280px; height: 54px;}
+ .cake-icon2 {width: 279px; height: 244px; position: static;}
+ .trucj-icon-1 {width: 75px; height: 76px; position: absolute; left: 1025px;top: 2038px;}
+ .on-time-delivery-for-free {color: #ffffff; text-align: left; font: 400 32px/32px 'Josefin Sans', sans-serif; position: absolute; left: 1025px;top: 2152px; width: 279px;}
+ .we-have-big-collection-choose-your-favorite2 {color: #ffffff; text-align: left; font: 400 18px/24px 'Josefin Sans', sans-serif; position: absolute; left: 1025px;top: 2228px; width: 279px; height: 54px;}
+ .box-icon-1 {width: 76px; height: 76px; position: absolute; left: 660px;top: 2038px;}
+ .we-pack-with-care-before-send {color: #ffffff; text-align: left; font: 400 32px/32px 'Josefin Sans', sans-serif; position: absolute; left: 660px;top: 2152px; width: 280px;}
+ .we-have-big-collection-choose-your-favorite3 {color: #ffffff; text-align: left; font: 400 18px/24px 'Josefin Sans', sans-serif; position: absolute; left: 660px;top: 2228px; width: 280px; height: 54px;}
+ .about-me2 {position: absolute; inset: 0;}
+ .button4 {border-radius: 100px; border-style: solid; border-color: #ffe662; border-width: 2px; padding: 14px 40px 14px 40px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; position: absolute; left: 1204px;top: 3344px;}
+ .learn-more {color: #2d0018; text-align: center; font: 400 16px 'Josefin Sans', sans-serif; position: relative;}
+ .arrow-right-15 {flex-shrink: 0; position: relative; overflow: visible;}
+ .rectangle-2 {border-radius: 35px; width: 488px; height: 594px; position: absolute; left: 192px;top: 2639px;}
+ .rectangle-3 {border-radius: 35px; width: 220px; height: 215px; position: absolute; left: 296px;top: 3195px;}
+ .pexels-shvets-production-7525162-1 {border-radius: 35px; width: 235px; height: 182px; position: absolute; left: 549px;top: 3164px;}
+ .imagine-a-masterpiece-of-confectionary-delight-a-perfect-cake-that-entices-all-your-senses-and-promises-an-extraordinary-culinary-experience-the-cake-stands-tall-its-layers-impeccably-stacked-and-its-exterior-a-canvas-of-decadent-artistry-here-is-a-description-of-this-perfect-cake-the-cake-begins-with-a-sturdy-yet-moist-foundation-an-exquisitely-tender-vanilla-sponge-imbued-with-the-essence-of-fresh-madagascar-vanilla-beans-as-you-approach-it-the-delicate-aroma-of-vanilla-wafts-through-the-air-instantly-captivating-your-senses-its-first-layer-reveals-a-luscious-strawberry-compote-bursting-with-the-natural-sweetness-of-ripe-juicy-strawberries-each-bite-of-this-fruit-infused-layer-provides-a-refreshing-contrast-to-the-cake-s-subtle-vanilla-notes-leaving-a-delightful-tang-on-your-palate-nestled-above-the-strawberry-compote-a-velvety-smooth-layer-of-rich-dark-chocolate-ganache-awaits-made-with-the-finest-cocoa-beans-it-possesses-an-intense-bittersweet-flavor-that-harmonizes-beautifully-with-the-delicate-sweetness-of-the-cake {color: #2d0018; text-align: left; font: 400 18px/28px 'Lato', sans-serif; position: absolute; left: 888px;top: 2662px; width: 520px; height: 597px;}
+ .about-me3 {color: #000000; text-align: left; font: 700 57px/64px 'Josefin Sans', sans-serif; position: absolute; left: calc(50% - 134px);top: 2479px;}
+ .footer {position: absolute; inset: 0;}
+ .rectangle-4 {background: var(--primarypink, #e2007a); width: 1600px; height: 320px; position: absolute; left: 0px;top: 3586px;}
+ .frame-4 {display: flex; flex-direction: row; gap: 90px; align-items: center; justify-content: center; position: absolute; left: calc(50% - 234px);top: 3731px;}
+ .delivary-info {color: #ffffff; text-align: left; font: 700 24px/24px 'Josefin Sans', sans-serif; position: relative;}
+ .contact {color: #ffffff; text-align: left; font: 700 24px/24px 'Josefin Sans', sans-serif; position: relative;}
+ .faq {color: #ffffff; text-align: left; font: 700 24px/24px 'Josefin Sans', sans-serif; position: relative;}
+ .frame-5 {display: flex; flex-direction: row; gap: 20px; align-items: center; justify-content: center; position: absolute; right: 192px;top: 3728px;}
+ .logo-facebook-1-1 {flex-shrink: 0; width: 30px; height: 30px; position: relative;}
+ .logo-youtube-1-1 {flex-shrink: 0; width: 30px; height: 30px; position: relative;}
+ .logo-tiktok-1-1 {flex-shrink: 0; width: 30px; height: 30px; position: relative;}
+ .frame-6 {display: flex; flex-direction: row; gap: 265px; align-items: center; justify-content: flex-start; width: 1215px; position: absolute; left: 193px;top: 3704px;}
+ .logo2 {flex-shrink: 0; position: relative; overflow: visible;}
+ .home-made-cakes-all-right-reserved-2023 {color: rgba(255, 255, 255, 0.80); text-align: left; font: 400 18px/24px 'Josefin Sans', sans-serif; opacity: 0.800000011920929; position: absolute; left: calc(50% - 190px);top: 3843px;}
